@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to Connor's GitHub page
+Listed below is the work I have committed!
 ---
-
-# Welcome to Connor's GitHub page
-Listen below is the work I have committed!
